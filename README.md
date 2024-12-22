@@ -13,4 +13,5 @@ TP4056	50 µA (with LED: 2mA)	N/A
 MCP1700	1,6 µA	250 mA (max)
 ESP-12F	20-40 µA (deep sleep)	70-150 mA (Wi-Fi)
 BMS	10 µA	N/A
-Total energy consumption (standby)	~80-100 µA	
+Total energy consumption (standby)	~80-100 µA
+
