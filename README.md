@@ -1,4 +1,4 @@
-# Sensor
+# Low power wireless sensor
 The intention is to build up a sensor powered by the batteries and wirelessly communicate with a server.
 
 The first version is based on ESP8266 with the wifi connection to the server.
